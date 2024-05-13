@@ -25,8 +25,8 @@ The challenge is to build out this QR code component and get it looking as close
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ArgonautaStudios/qr-code-component)
-- Live Site URL: [Add live site URL here](https://argonautastudios.github.io/qr-code-component/)
+- Solution URL: [https://github.com/ArgonautaStudios/qr-code-component](https://github.com/ArgonautaStudios/qr-code-component)
+- Live Site URL: [https://argonautastudios.github.io/qr-code-component/](https://argonautastudios.github.io/qr-code-component/)
 
 ## My process
 
