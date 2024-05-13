@@ -1,0 +1,42 @@
+@media(max-width: 1280px){
+    .qr{
+        padding: 16px;
+        flex-direction: column;
+        align-items: center;
+        margin: 50px auto;
+        gap: 30px;
+    }
+    .qr .code{
+        padding: auto 16px;
+        max-width: 100%;
+        align-items: center;
+    }
+    .qr .informacoes{
+        max-width: 100%;
+        text-align: center;
+        align-items: center;
+    }
+
+    .attribution {
+        padding: 10px;
+        margin: -50px auto;
+    }
+}
+
+@media(max-width: 375px){
+    .qr{
+        max-width: 80%;
+    }
+
+    .qr .code{
+        max-width: 288px;
+    }
+
+    .qr .informacoes h1{
+        font-size: 17px;
+    }
+
+    .qr .informacoes p{
+        font-size: 11px;
+    }
+}
